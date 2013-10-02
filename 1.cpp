@@ -1,3 +1,5 @@
+// http://willz.net/2013/09/question1/
+
 #include <iostream>
 #include <vector>
 

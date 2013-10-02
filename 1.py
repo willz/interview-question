@@ -1,4 +1,6 @@
 
+# http://willz.net/2013/09/question1/
+
 def main():
     input_a = [1, 2, 4, 5]
     input_b = [3, 9]
